@@ -1,6 +1,6 @@
 # Opencart-demo-test
 
-Testing the Opencart demo web using pytest and selenium
+Testing the OpenCart e-commerce web application using pytest and selenium
 
 Package:
 -Selenium version 4.25.0
